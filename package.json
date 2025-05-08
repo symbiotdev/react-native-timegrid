@@ -1,0 +1,43 @@
+{
+  "name": "@symbiot.dev/react-native-timegrid",
+  "version": "0.2.2",
+  "description": "A lightweight and customizable time grid calendar component for React Native, Web, and Expo.",
+  "main": "./index.esm.js",
+  "types": "./src/index.d.ts",
+  "keywords": [
+    "react-native",
+    "expo",
+    "react-native-calendar",
+    "react-native-scheduler",
+    "react-native-timegrid",
+    "event-scheduling",
+    "calendar-ui",
+    "booking-calendar",
+    "appointment-scheduler",
+    "interactive-calendar",
+    "expo-calendar",
+    "expo-scheduler"
+  ],
+  "author": {
+    "name": "Symbiot",
+    "email": "info@symbiot.dev",
+    "url": "https://symbiot.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://symbiot.dev",
+  "repository": {
+    "url": "git+https://github.com/symbiotdev/react-native-timegrid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/symbiotdev/react-native-timegrid/issues"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.65",
+    "react-native-reanimated": ">=3",
+    "react-native-gesture-handler": ">=2",
+    "date-fns": ">=4"
+  },
+  "module": "./index.esm.js",
+  "type": "module"
+}
